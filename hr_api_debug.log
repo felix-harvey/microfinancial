@@ -1,0 +1,30 @@
+DATE: 2026-02-01 09:28:31
+TARGET: https://hr4.microfinancial-1.com/api/payroll/disbursement/callback
+BATCH: DISB-BCWISN4L-20260201
+PAYLOAD SENT: {"batch_reference":"DISB-BCWISN4L-20260201","results":[{"employee_id":"BATCH-ALL","status":"Paid","payment_reference":"IMP-20260201-570E4","payment_date":"2026-02-01 09:28:30"}]}
+HTTP CODE: 200
+RESPONSE: {"success":true,"batch_status":"Failed"}
+--------------------------------------------------
+DATE: 2026-02-01 09:37:47
+TARGET: https://hr4.microfinancial-1.com/api/payroll/disbursement/callback
+BATCH: DISB-RSCQMM92-20260201
+PAYLOAD SENT: {"batch_reference":"DISB-RSCQMM92-20260201","results":[{"employee_id":"BATCH-ALL","status":"Paid","payment_reference":"IMP-20260201-97B6D","payment_date":"2026-02-01 09:37:47"}]}
+HTTP CODE: 200
+RESPONSE: {"success":true,"batch_status":"Failed"}
+--------------------------------------------------
+DATE: 2026-02-01 09:51:05
+TARGET: https://hr4.microfinancial-1.com/api/payroll/disbursement/callback
+BATCH: DISB-VBZT4F6R-20260201
+PAYLOAD SENT: {"batch_reference":"DISB-VBZT4F6R-20260201","results":[{"employee_id":"BATCH-ALL","status":"Paid","payment_reference":"IMP-20260201-20276","payment_date":"2026-02-01 09:51:05"}]}
+HTTP CODE: 200
+RESPONSE: {"success":true,"batch_status":"Failed"}
+--------------------------------------------------
+DATE: 2026-02-01 09:56:40
+TARGET: https://hr4.microfinancial-1.com/api/payroll/disbursement/callback
+BATCH: DISB-SLZZOGYR-20260201
+PAYLOAD SENT: {"batch_reference":"DISB-SLZZOGYR-20260201","results":[{"employee_id":"BATCH-ALL","status":"Paid","payment_reference":"IMP-20260201-696C5","payment_date":"2026-02-01 09:56:39"}]}
+HTTP CODE: 200
+RESPONSE: {"success":true,"batch_status":"Failed"}
+--------------------------------------------------
+STRICT MODE SENT: {"batch_reference":"DISB-M1XDUCK1-20260201","results":[{"employee_id":"EMP-010","status":"Paid","payment_reference":"IMP-20260201-C2053","payment_date":"2026-02-01 10:06:11"}]} | RESP: {"success":true,"batch_status":"Completed"}
+STRICT MODE SENT: {"batch_reference":"DISB-KZAZJOXI-20260201","results":[{"employee_id":"EMP-011","status":"Paid","payment_reference":"IMP-20260201-31D5B","payment_date":"2026-02-01 10:06:46"}]} | RESP: {"success":true,"batch_status":"Completed"}

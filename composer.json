@@ -1,0 +1,9 @@
+{
+    "name": "financial-otp-system",
+    "require": {
+        "phpmailer/phpmailer": "^6.8"
+    },
+    "config": {
+        "platform-check": false
+    }
+}
